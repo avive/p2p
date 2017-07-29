@@ -49,7 +49,7 @@ and in which ways different? Check the devp2p gitter channel history for a discu
 
 ## EIPs
 
-https://github.com/ethereum/EIPs/pull/49
+https://github.com/ethereum/EIPs/pull/49  
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-8.md
 
 
