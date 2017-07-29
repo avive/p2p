@@ -15,9 +15,14 @@ https://godoc.org/github.com/ethereum/go-ethereum/p2p
 
 https://github.com/ethereum/go-ethereum/wiki/Connecting-to-the-network
 
+
+### Nodes Discovery
+https://github.com/ethereum/devp2p/blob/master/rlpx.md#node-discovery
+
 v5 discovery protocol
 https://blog.ethereum.org/2016/11/17/whoa-geth-1-5/
 
+## bzz
 
 ## RLPX
 https://github.com/fjl/go-ethereum/tree/rlpx-framing/p2p/rlpx
@@ -34,3 +39,12 @@ https://github.com/ethereum/devp2p/blob/master/rlpx.md
 - https://gitter.im/ethereum/devp2p
 - https://gitter.im/ethereum/whisper
 - https://gitter.im/ethereum/swarm
+
+## Random Notes
+It's a bit like the relationship between TLS and HTTP: RLPx is the encrypted transport protocol, devp2p defines how we use it.
+devp2p is this: https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol
+rlpx is how devp2p messages are encrypted and transported
+
+https://github.com/ethereum/EIPs/pull/49
+
+
