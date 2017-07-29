@@ -1,5 +1,7 @@
 # Eth p2p learning research notes
 
+Phase I of this project is to establish an understanding of the current state of the protocols. e.g. what's outdated and what's up-to-date and figure out the best collection of docs / guides / code to understand the protocols.
+
 ## guides / docs
 
 https://github.com/ethereum/go-ethereum/wiki/Peer-to-Peer
@@ -36,7 +38,7 @@ https://github.com/ethereum/devp2p/blob/master/rlpx.md
 - les - light eth sub-protocol: https://github.com/zsfelfoldi/go-ethereum/blob/light/les/protocol.go 
 
 ## Community
-- https://gitter.im/ethereum/devp2p
+- https://gitter.im/ethereum/devp2p - there's some interesting discussion of protocol scopre, goals and design in this channel going back to 2015
 - https://gitter.im/ethereum/whisper
 - https://gitter.im/ethereum/swarm
 
@@ -46,7 +48,7 @@ devp2p is this: https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Prot
 rlpx is how devp2p messages are encrypted and transported
 
 In which ways similar to the p2p protocol of BitTorrent and other file sharing programs,
-and in which ways different?
+and in which ways different? Check the devp2p gitter channel history for a discussion about this. This is a fundemental question - seems like quite different goals as the eth computer is a signleton and a view from up to 10 nodes should give any node a good picture of the current state and consensus.
 
 
 https://github.com/ethereum/EIPs/pull/49
