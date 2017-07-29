@@ -11,3 +11,9 @@ https://github.com/ethereum/wiki/wiki/libp2p-Whitepaper (seems outdated)
 
 ## code
 - p2p go package in go-eth
+- https://github.com/nolash/go-ethereum-p2p-demo
+
+## Community
+- https://gitter.im/ethereum/devp2p
+- https://gitter.im/ethereum/whisper
+- https://gitter.im/ethereum/swarm
