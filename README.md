@@ -9,7 +9,12 @@ https://github.com/ethereum/devp2p/blob/master/rlpx.md
 https://github.com/ethereum/wiki/wiki/Whisper
 https://github.com/ethereum/wiki/wiki/libp2p-Whitepaper (seems outdated)
 
+https://github.com/ethereum/devp2p/blob/master/rlpx.md
+
 https://godoc.org/github.com/ethereum/go-ethereum/p2p
+
+## RLPX protocol
+https://github.com/fjl/go-ethereum/tree/rlpx-framing/p2p/rlpx
 
 
 ## code
