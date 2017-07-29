@@ -47,7 +47,10 @@ rlpx is how devp2p messages are encrypted and transported
 In which ways similar to the p2p protocol of BitTorrent and other file sharing programs,
 and in which ways different? Check the devp2p gitter channel history for a discussion about this. This is a fundemental question - seems like quite different goals as the eth computer is a signleton and a view from up to 10 nodes should give any node a good picture of the current state and consensus.
 
+## EIPs
 
 https://github.com/ethereum/EIPs/pull/49
+https://github.com/ethereum/EIPs/blob/master/EIPS/eip-8.md
+
 
 
