@@ -13,8 +13,15 @@ https://github.com/ethereum/devp2p/blob/master/rlpx.md
 
 https://godoc.org/github.com/ethereum/go-ethereum/p2p
 
-## RLPX protocol
+https://github.com/ethereum/go-ethereum/wiki/Connecting-to-the-network
+
+v5 discovery protocol
+https://blog.ethereum.org/2016/11/17/whoa-geth-1-5/
+
+
+## RLPX
 https://github.com/fjl/go-ethereum/tree/rlpx-framing/p2p/rlpx
+https://github.com/ethereum/devp2p/blob/master/rlpx.md
 
 
 ## code
