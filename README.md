@@ -24,12 +24,9 @@ https://github.com/ethereum/devp2p/blob/master/rlpx.md#node-discovery
 v5 discovery protocol
 https://blog.ethereum.org/2016/11/17/whoa-geth-1-5/
 
-## bzz
-
-## RLPX
+## RLPX protocol (low-level)
 https://github.com/fjl/go-ethereum/tree/rlpx-framing/p2p/rlpx
 https://github.com/ethereum/devp2p/blob/master/rlpx.md
-
 
 ## code
 - p2p go package in go-eth
