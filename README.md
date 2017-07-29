@@ -45,6 +45,10 @@ It's a bit like the relationship between TLS and HTTP: RLPx is the encrypted tra
 devp2p is this: https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol
 rlpx is how devp2p messages are encrypted and transported
 
+In which ways similar to the p2p protocol of BitTorrent and other file sharing programs,
+and in which ways different?
+
+
 https://github.com/ethereum/EIPs/pull/49
 
 
