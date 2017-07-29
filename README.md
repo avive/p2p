@@ -1,4 +1,4 @@
-# Eth p2p learning resources
+# Eth p2p learning research notes
 
 ## guides / docs
 
