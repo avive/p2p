@@ -1,4 +1,4 @@
-# Eth p2p learning research notes
+# Eth p2p protocols - research notes
 
 Phase I of this project is to establish an understanding of the current state of the protocols. e.g. what's outdated and what's up-to-date and figure out the best collection of docs / guides / code to understand the protocols.
 
