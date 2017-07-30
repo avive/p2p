@@ -7,19 +7,12 @@ Phase I of this project is to establish an understanding of the current state of
 https://github.com/ethereum/go-ethereum/wiki/Peer-to-Peer   
 
 https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol   
-https://github.com/ethereum/devp2p/blob/master/rlpx.md   
 https://github.com/ethereum/wiki/wiki/Whisper   
 https://github.com/ethereum/wiki/wiki/libp2p-Whitepaper (seems outdated)  
-
-https://github.com/ethereum/devp2p/blob/master/rlpx.md  
 
 https://godoc.org/github.com/ethereum/go-ethereum/p2p   
 
 https://github.com/ethereum/go-ethereum/wiki/Connecting-to-the-network   
-
-
-### Nodes Discovery
-https://github.com/ethereum/devp2p/blob/master/rlpx.md#node-discovery   
 
 v5 discovery protocol
 https://blog.ethereum.org/2016/11/17/whoa-geth-1-5/   
@@ -27,6 +20,9 @@ https://blog.ethereum.org/2016/11/17/whoa-geth-1-5/
 ## RLPX protocol (low-level)
 https://github.com/fjl/go-ethereum/tree/rlpx-framing/p2p/rlpx
 https://github.com/ethereum/devp2p/blob/master/rlpx.md
+
+### Nodes Discovery
+https://github.com/ethereum/devp2p/blob/master/rlpx.md#node-discovery   
 
 ## code
 - p2p go package in go-eth
