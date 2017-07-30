@@ -30,6 +30,9 @@ https://github.com/ethereum/devp2p/blob/master/rlpx.md#node-discovery
 - The 'eth' p2p protocol: https://github.com/ethereum/go-ethereum/blob/master/eth/protocol.go
 - les - light eth sub-protocol: https://github.com/zsfelfoldi/go-ethereum/blob/light/les/protocol.go 
 
+## pydevp2p
+https://github.com/ethereum/pydevp2p
+
 ## Community
 - https://gitter.im/ethereum/devp2p - there's some interesting discussion of protocol scopre, goals and design in this channel going back to 2015
 - https://gitter.im/ethereum/whisper
